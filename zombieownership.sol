@@ -3,6 +3,7 @@ pragma solidity ^0.8.0;
 import "./zombieattack.sol";
 import "./erc721.sol";
 import "./safemath.sol";
+// "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d";
 
 contract ZombieOwnership is ZombieAttack, ERC721 {
 
